@@ -11,8 +11,6 @@ This project calculates **weekly training load** for a soccer squad using **sRPE
 - Visualization:
   - Grouped bar chart of weekly load per player
 
-## Example
-![example_plot](example.png)
 
 ## How to Use
 1. Clone the repo
